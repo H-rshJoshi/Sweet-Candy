@@ -10,3 +10,5 @@ Features:
 
 Gameplay:
 In Sweet Candy, your objective is to collect as many candies as possible to advance through each level. Be cautious of obstacles and challenges along the way!
+
+Find it on my itch.io!!
